@@ -17,18 +17,19 @@ export default function BookCard({ book }) {
             transition={{ duration: 0.5, delay: 0.5 }}
             className="book-card max-w-96 w-full border border-white/8 rounded-2xl overflow-hidden shadow-sm  mx-auto my-10 p-5"
             style={{ background: '#1C1B1F' }}>
-            <figure className='relative w-[160] h-56 mx-auto rounded'>
+            <figure className='relative w-[160] h-56 mx-auto rounded aspect-square'>
                 <Image
                     src={book.image_url}
-                    alt="Shoes"
-                    width={200}
-                    height={200}
+                    alt={book.title}
+                    fill
+                    sizes="(max-width:768px)100vh, (max-width:1200px)"
                     className='object-cover book-image' />
             </figure>
             <div className="card-body">
                 <h2 className="card-title">{book.title}</h2>
                 <p>{book.description}</p>
-                <div className="card-actions justify-end">
+    
+                <div className="card-actions justify-end mt-4">
                     <Link href={`/details/${book.id}`}> <button className="button btn bg-gray-500">View Details</button></Link>
                 </div>
             </div>

@@ -51,7 +51,7 @@ export default function Footer() {
                 </div>
             </nav>
             <aside>
-                <p>Created by <a href="">Neyamul Islam</a> using NextJS and TailwindCSS</p>
+                <p>Created by <a href="">Sabuj Alom</a> using NextJS and TailwindCSS</p>
             </aside>
         </footer>
     )
