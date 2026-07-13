@@ -50,8 +50,8 @@ export default  function Navbar() {
 
                     </ul>
                 </div>
-                 <div >
-                    <Link href='/home'> <Image src={logo} width={70} height={70} alt='Logo' /> </Link>
+                 <div>
+                    <Link href='/home'> <Image src={logo} width={70} height={70} alt='Logo' className='rounded-xl' /> </Link>
                  </div>
             </div>
             <div className="navbar-center hidden lg:flex">
