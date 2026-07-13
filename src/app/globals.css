@@ -1,0 +1,149 @@
+@import "tailwindcss";
+
+@plugin "daisyui" {
+  themes: all;
+}
+
+@import 'swiper/css';
+@import 'swiper/css/navigation';
+@import 'swiper/css/pagination';
+
+
+.text-white-s{
+  color: whitesmoke;
+}
+.button {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);
+  background: #1C1B1F;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  /*  */
+  border-color: rgba(184, 142, 72, 0.4);
+  color: #FFFFFF;
+}
+
+.button:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6);
+  /* */
+  border: 1px solid rgba(233, 193, 81, 0.514);
+
+}
+
+.profile {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);
+  background: #1C1B1F;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  /*  */
+  border-color: rgba(184, 142, 72, 0.4);
+}
+
+.active {
+  /* transform: translateY(-10px); */
+  background: #FFFFFF;
+  color: #1C1B1F;
+  border: 2px solid rgb(34, 31, 13);
+}
+
+.shadoww {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);
+}
+
+.book-card {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);
+  background: #1C1B1F;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  /*  */
+  border-color: rgba(184, 142, 72, 0.4);
+}
+
+.book-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6);
+  /* */
+  border: 1px solid rgba(233, 193, 81, 0.514);
+
+}
+
+.book-card:hover .book-image {
+  transform: scale(1.05);
+}
+
+.book-image {
+  transition: transform 0.3s ease;
+}
+
+/* 
+.book-btn {
+  background: transparent;
+  border: 1px solid rgba(184, 142, 72, 0.4);
+  color: rgba(255, 255, 255, 0.1);
+  transition: background 0.5s ease, color 0.2 ease;
+} */
+/* 
+.book-btn:hover {
+  background-color: #B88E48;
+  color: #1C1B1F;
+} */
+
+.detail {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);
+  background: #1C1B1F;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  transition: box-shadow 0.3s ease, border-color 0.3s ease;
+}
+
+.detail:hover {
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6);
+  border-color: rgba(184, 142, 72, 0.4);
+}
+
+.detail-image {
+  transition: transform 0.3s ease;
+}
+
+.detail:hover .detail-image {
+  transform: scale(1.03s);
+}
+
+/* .borrow-btn {
+  background: transparent;
+  border: 1px solid rgba(184, 142, 72, 0.4);
+  color: #B88E48;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.borrow-btn:hover {
+  background-color: #B88E48;
+  color: #1C1B1F;
+} */
+
+
+.rating-card {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);
+  background: #1C1B1F;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  /*  */
+  border-color: rgba(184, 142, 72, 0.4);
+}
+
+.rating-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6);
+  /* */
+  border: 1px solid rgba(233, 193, 81, 0.514);
+}
+
+.choose {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);
+  background: #1C1B1F;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  /*  */
+  border-color: rgba(184, 142, 72, 0.4);
+}
+
+.choose:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6);
+  /* */
+  border: 1px solid rgba(233, 193, 81, 0.514);
+}

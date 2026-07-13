@@ -1,0 +1,46 @@
+[
+  {
+    "book_title": "The Midnight Library",
+    "author": "Matt Haig",
+    "rater": {
+      "name": "Alex Johnson",
+      "username": "ReadWithAlex",
+      "avatar_url": "https://randomuser.me/api/portraits/men/32.jpg"
+    },
+    "rating": 5,
+    "review": "A beautiful exploration of regret and the paths not taken. This book literally changed my perspective on life."
+  },
+  {
+    "book_title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "rater": {
+      "name": "Sam Carter",
+      "username": "SciFi_Sam",
+      "avatar_url": "https://randomuser.me/api/portraits/men/45.jpg"
+    },
+    "rating": 5,
+    "review": "If you loved The Martian, you'll adore this. The science is crunchy but accessible, and the friendship is amazing."
+  },
+  {
+    "book_title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "rater": {
+      "name": "Emily Stone",
+      "username": "MysteryMaven",
+      "avatar_url": "https://randomuser.me/api/portraits/women/68.jpg"
+    },
+    "rating": 3,
+    "review": "The twist was unexpected, but the pacing felt a bit slow in the middle."
+  },
+  {
+    "book_title": "Circe",
+    "author": "Madeline Miller",
+    "rater": {
+      "name": "David Miller",
+      "username": "HistoryBuff99",
+      "avatar_url": "https://randomuser.me/api/portraits/men/76.jpg"
+    },
+    "rating": 4,
+    "review": "Lyrical and haunting writing. A brilliant retelling of Greek mythology."
+  }
+]

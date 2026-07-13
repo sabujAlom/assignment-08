@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "title": "The Silent Forest",
+    "author": "Ayesha Rahman",
+    "description": "A mysterious tale of a village surrounded by a forest where no one dares to enter after sunset.",
+    "category": "Story",
+    "available_quantity": 5,
+    "image_url": "https://picsum.photos/seed/book1/400/600"
+  },
+  {
+    "id": 2,
+    "title": "Next.js in Action",
+    "author": "John Carter",
+    "description": "A practical guide to building fast and scalable web applications using Next.js.",
+    "category": "Tech",
+    "available_quantity": 8,
+    "image_url": "https://picsum.photos/seed/book2/400/600"
+  },
+  {
+    "id": 3,
+    "title": "The Quantum World",
+    "author": "Dr. Sarah Ahmed",
+    "description": "An introduction to quantum physics explained in a simple and engaging way.",
+    "category": "Science",
+    "available_quantity": 6,
+    "image_url": "https://picsum.photos/seed/book3/400/600"
+  },
+  {
+    "id": 4,
+    "title": "Moonlight Tales",
+    "author": "Rafiq Hasan",
+    "description": "A collection of short stories filled with emotion, mystery, and imagination.",
+    "category": "Story",
+    "available_quantity": 4,
+    "image_url": "https://picsum.photos/seed/book4/400/600"
+  },
+  {
+    "id": 5,
+    "title": "Mastering MongoDB",
+    "author": "Emily Stone",
+    "description": "Comprehensive guide to designing and managing databases using MongoDB.",
+    "category": "Tech",
+    "available_quantity": 7,
+    "image_url": "https://picsum.photos/seed/book5/400/600"
+  },
+  {
+    "id": 6,
+    "title": "The Space Beyond",
+    "author": "Neil Kapoor",
+    "description": "Explore the mysteries of the universe, from black holes to distant galaxies.",
+    "category": "Science",
+    "available_quantity": 3,
+    "image_url": "https://picsum.photos/seed/book6/400/600"
+  },
+  {
+    "id": 7,
+    "title": "Whispers of the Past",
+    "author": "Nusrat Jahan",
+    "description": "A historical fiction story uncovering secrets buried in time.",
+    "category": "Story",
+    "available_quantity": 6,
+    "image_url": "https://picsum.photos/seed/book7/400/600"
+  },
+  {
+    "id": 8,
+    "title": "JavaScript Essentials",
+    "author": "Michael Lee",
+    "description": "A beginner-friendly guide to understanding the fundamentals of JavaScript.",
+    "category": "Tech",
+    "available_quantity": 10,
+    "image_url": "https://picsum.photos/seed/book8/400/600"
+  },
+  {
+    "id": 9,
+    "title": "Biology Unlocked",
+    "author": "Dr. Tanvir Hossain",
+    "description": "A deep dive into the building blocks of life and biological systems.",
+    "category": "Science",
+    "available_quantity": 5,
+    "image_url": "https://picsum.photos/seed/book9/400/600"
+  },
+  {
+    "id": 10,
+    "title": "The Last Journey",
+    "author": "Imran Kabir",
+    "description": "A touching story about life, loss, and the meaning of existence.",
+    "category": "Story",
+    "available_quantity": 2,
+    "image_url": "https://picsum.photos/seed/book10/400/600"
+  },
+  {
+    "id": 11,
+    "title": "Secure Web Apps",
+    "author": "Laura Smith",
+    "description": "Learn how to build secure web applications using modern authentication techniques.",
+    "category": "Tech",
+    "available_quantity": 9,
+    "image_url": "https://picsum.photos/seed/book11/400/600"
+  },
+  {
+    "id": 12,
+    "title": "Chemistry Basics",
+    "author": "Dr. Arif Chowdhury",
+    "description": "An easy-to-understand guide to fundamental chemistry concepts.",
+    "category": "Science",
+    "available_quantity": 4,
+    "image_url": "https://picsum.photos/seed/book12/400/600"
+  },
+  {
+    "id": 13,
+    "title": "Echoes in the Dark",
+    "author": "Farhan Ahmed",
+    "description": "A suspenseful thriller about voices heard in an abandoned mansion.",
+    "category": "Story",
+    "available_quantity": 5,
+    "image_url": "https://picsum.photos/seed/book13/400/600"
+  },
+  {
+    "id": 14,
+    "title": "React Mastery",
+    "author": "Daniel Brooks",
+    "description": "Advanced techniques and best practices for building applications with React.",
+    "category": "Tech",
+    "available_quantity": 7,
+    "image_url": "https://picsum.photos/seed/book14/400/600"
+  },
+  {
+    "id": 15,
+    "title": "Astrophysics Simplified",
+    "author": "Dr. Meherun Nesa",
+    "description": "Understand the universe with simplified explanations of complex astrophysics topics.",
+    "category": "Science",
+    "available_quantity": 6,
+    "image_url": "https://picsum.photos/seed/book15/400/600"
+  },
+  {
+    "id": 16,
+    "title": "Shadows of Yesterday",
+    "author": "Tanvir Rahman",
+    "description": "A gripping tale of memories, regrets, and hidden truths.",
+    "category": "Story",
+    "available_quantity": 4,
+    "image_url": "https://picsum.photos/seed/book16/400/600"
+  },
+  {
+    "id": 17,
+    "title": "Node.js Deep Dive",
+    "author": "Sophia Turner",
+    "description": "Explore backend development with Node.js, from basics to advanced concepts.",
+    "category": "Tech",
+    "available_quantity": 8,
+    "image_url": "https://picsum.photos/seed/book17/400/600"
+  },
+  {
+    "id": 18,
+    "title": "Genetics Explained",
+    "author": "Dr. Rakib Hasan",
+    "description": "A beginner-friendly guide to genes, DNA, and heredity.",
+    "category": "Science",
+    "available_quantity": 5,
+    "image_url": "https://picsum.photos/seed/book18/400/600"
+  },
+  {
+    "id": 19,
+    "title": "The Hidden Path",
+    "author": "Sadia Islam",
+    "description": "An adventurous journey through unknown lands and inner discovery.",
+    "category": "Story",
+    "available_quantity": 6,
+    "image_url": "https://picsum.photos/seed/book19/400/600"
+  },
+  {
+    "id": 20,
+    "title": "Fullstack Development Guide",
+    "author": "Kevin Martin",
+    "description": "Learn to build complete web applications using modern fullstack tools.",
+    "category": "Tech",
+    "available_quantity": 9,
+    "image_url": "https://picsum.photos/seed/book20/400/600"
+  },
+  {
+    "id": 21,
+    "title": "Earth and Environment",
+    "author": "Dr. Sharmeen Akter",
+    "description": "Insights into environmental science and the Earth's ecosystems.",
+    "category": "Science",
+    "available_quantity": 4,
+    "image_url": "https://picsum.photos/seed/book21/400/600"
+  },
+  {
+    "id": 22,
+    "title": "Broken Dreams",
+    "author": "Imtiaz Karim",
+    "description": "A heartfelt story of ambition, failure, and resilience.",
+    "category": "Story",
+    "available_quantity": 3,
+    "image_url": "https://picsum.photos/seed/book22/400/600"
+  }
+]
