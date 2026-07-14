@@ -11,7 +11,7 @@ const db = client.db("ReedBook");
 export const auth = betterAuth({
     trustedOrigins: [
         "http://localhost:3000",
-        // "https://neyamul-assignment-8.vercel.app",
+        // "https:assignment-8.vercel.app",
     ],
 
     database: mongodbAdapter(db, {
