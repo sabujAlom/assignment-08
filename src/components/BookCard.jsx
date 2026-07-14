@@ -13,7 +13,6 @@ export default function BookCard({ book }) {
             initial="hidden"
             whileInView="visible"
             viewport={{ once: false, amount: 0.2 }}
-            // transition={{ duration: 0.5 }}
             transition={{ duration: 0.5, delay: 0.5 }}
             className="book-card max-w-96 w-full border border-white/8 rounded-2xl overflow-hidden shadow-sm  mx-auto my-10 p-5"
             style={{ background: '#1C1B1F' }}>
